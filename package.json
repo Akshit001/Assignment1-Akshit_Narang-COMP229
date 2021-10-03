@@ -6,7 +6,7 @@
     "start": "node ./server.js"
   },
   "engines": {
-    "node": "^14.00.0",
+    "node": "^10.00.0",
     "npm": "^6.0.0"
   },
   "dependencies": {
@@ -21,7 +21,7 @@
     "jquery": "^3.6.0",
     "morgan": "~1.9.1"
   },
-  "description": "Assignment 1 for Web Application Development, COMP 229, Section 008",
+  "description": "Assignment 1 for Web Application Development, COMP 229, Section 008clea",
   "main": "index.js",
   "devDependencies": {},
   "repository": {
