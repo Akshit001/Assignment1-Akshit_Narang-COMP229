@@ -1,9 +1,13 @@
 {
   "name": "assignment1",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node ./server.js"
+  },
+  "engines": {
+    "node": "^14.00.0",
+    "npm": "^6.0.0"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.4",
@@ -16,5 +20,18 @@
     "http-errors": "~1.6.3",
     "jquery": "^3.6.0",
     "morgan": "~1.9.1"
-  }
+  },
+  "description": "Assignment 1 for Web Application Development, COMP 229, Section 008",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshit001/Assignment1-Akshit_Narang-COMP229.git"
+  },
+  "author": "Akshit Narang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshit001/Assignment1-Akshit_Narang-COMP229/issues"
+  },
+  "homepage": "https://github.com/Akshit001/Assignment1-Akshit_Narang-COMP229#readme"
 }
